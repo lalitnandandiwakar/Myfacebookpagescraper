@@ -1,0 +1,121 @@
+status_id,status_message,link_name,status_type,status_link,status_published,num_reactions,num_comments,num_shares,num_likes,num_loves,num_wows,num_hahas,num_sads,num_angrys,num_special
+608686072540615_1225683010840915,"#newlook
+#unedited
+#instagram
+#picoftheday
+#me
+#mypic
+#2k16 
+#bangalore
+#oldpic 
+#like4like 
+#like4follow 
+#streetlight 
+#road",Timeline Photos,photo,https://www.facebook.com/iinclude.in/photos/a.609260755816480.1073741828.608686072540615/1225683010840915/?type=3,2017-01-05 08:28:59,5,1,0,4,1,0,0,0,0,0
+608686072540615_820548401354380,MY COLLEGE LIFE http://wp.me/p5Wkef-y,MY COLLEGE LIFE | NIKHIL,link,http://youngester.tk/uncategorized/my-college-life/,2015-04-03 11:09:55,3,0,0,3,0,0,0,0,0,0
+608686072540615_817990168276870,HOPE (NEVER ENDS..) http://wp.me/p5Wkef-q,HOPE (NEVER ENDS..),link,http://youngester.tk/uncategorized/hope-never-ends/,2015-03-29 09:34:33,2,0,0,2,0,0,0,0,0,0
+608686072540615_816328991776321,POSITIVITY http://wp.me/p5Wkef-n,POSITIVITY,link,http://youngester.tk/uncategorized/positivity-2/,2015-03-26 13:45:46,3,0,0,3,0,0,0,0,0,0
+608686072540615_816326611776559,POSITIVITY http://wp.me/p5Wkef-j,POSITIVITY,link,http://youngester.tk/uncategorized/positivity/,2015-03-26 13:37:21,2,0,0,2,0,0,0,0,0,0
+608686072540615_814464088629478,,NIKHIL | MY LIFE MY RULES,link,http://youngester.tk/,2015-03-23 09:18:40,3,0,0,3,0,0,0,0,0,0
+608686072540615_808432759232611,Are You Ready.......,Lalit Nandan,video,https://www.facebook.com/lalitnandandiwakar/videos/448851168597592/,2015-03-14 22:19:34,2,1,0,2,0,0,0,0,0,0
+608686072540615_808068599269027,"Aimed, at hard-core gamer-style player, these games will surely entertain your brain with new challenge, nothing’s new to you here..... So why not have a try!!!",Lalit Nandan,photo,https://www.facebook.com/photo.php?fbid=448519498630759&set=a.215231901959521.1073741825.100004181371323&type=3,2015-03-14 07:49:27,1,0,0,1,0,0,0,0,0,0
+608686072540615_804620896280464,Innovation Challenge: India - Contests,TIIC IDC 2015 – Team 2873 - “Home Automation System For Baby(Child) Safety”,video,https://www.youtube.com/watch?v=4ip-GLAuexw,2015-03-08 13:52:12,2,0,0,2,0,0,0,0,0,0
+608686072540615_804620336280520,,TIIC IDC 2015 – Team 2873 - “Home Automation System For Baby(Child) Safety”,video,https://www.youtube.com/watch?v=4ip-GLAuexw,2015-03-08 13:50:31,1,0,1,1,0,0,0,0,0,0
+608686072540615_786401731435714,http://www.dictionary.computerstuck.com/,Computer Dictionary,link,http://www.dictionary.computerstuck.com/,2015-01-31 13:13:19,5,0,2,5,0,0,0,0,0,0
+608686072540615_701221993287022,,Intel Goodbye Roulette,link,http://pcrefresh.intel.com/,2014-08-24 04:46:33,1,0,0,1,0,0,0,0,0,0
+608686072540615_697944186948136,Intel Broadwell Architecture Preview: A Glimpse into Core M,Intel Broadwell Architecture Preview: A Glimpse into Core M,link,http://iinclude.in/2014/08/intel-broadwell-architecture-preview-a-glimpse-into-core-m/,2014-08-17 09:02:16,1,6,0,1,0,0,0,0,0,0
+608686072540615_694943713914850,My CPU (AMDFX8350K) Is 5th Position In world CPU Image Rendering,Lalit Nandan,photo,https://www.facebook.com/photo.php?fbid=349061018576608&set=a.215231901959521.1073741825.100004181371323&type=3,2014-08-11 15:26:13,4,0,0,4,0,0,0,0,0,0
+608686072540615_694029397339615,,Lalit Nandan,photo,https://www.facebook.com/photo.php?fbid=348562825293094&set=a.215231901959521.1073741825.100004181371323&type=3,2014-08-10 03:06:43,3,0,0,3,0,0,0,0,0,0
+608686072540615_689792114430010,,iinclude.in,link,https://www.facebook.com/iinclude.in/,2014-08-01 13:24:31,1,0,0,1,0,0,0,0,0,0
+608686072540615_689778504431371,Multitask with Intel® Hyper-Threading Technology,,video,https://www.facebook.com/iinclude.in/videos/689778504431371/,2014-08-01 12:42:25,3,0,0,3,0,0,0,0,0,0
+608686072540615_686204978122057,,Lalit Nandan,photo,https://www.facebook.com/photo.php?fbid=343869232429120&set=a.215231901959521.1073741825.100004181371323&type=3,2014-07-27 00:45:13,3,0,0,3,0,0,0,0,0,0
+608686072540615_665618720180683,,Trish,photo,https://www.facebook.com/photo.php?fbid=10204091910807422&set=gm.801821623171088&type=3,2014-06-18 13:19:31,3,0,0,3,0,0,0,0,0,0
+608686072540615_651531928256029,Indian Mario,,video,https://www.facebook.com/iinclude.in/videos/651531928256029/,2014-05-22 06:00:49,11,2,6,11,0,0,0,0,0,0
+608686072540615_651531511589404,NOKIA TREASURE TAG,,video,https://www.facebook.com/iinclude.in/videos/651531511589404/,2014-05-22 05:53:41,3,0,1,3,0,0,0,0,0,0
+608686072540615_646925018716720,"Ultimate Portable for Serious Gamers | NVIDIA SHIELD
+www.iinclude.in",Ultimate Portable for Serious Gamers | NVIDIA SHIELD,video,https://www.facebook.com/iinclude.in/videos/646925018716720/,2014-05-12 21:15:45,10,0,0,10,0,0,0,0,0,0
+608686072540615_627032030706019,www.iinclude.in,Windows XP support ends today: Here’s why you need to upgrade,link,http://iinclude.in/2014/04/windows-xp-support-ends-today-heres-why-you-need-to-upgrade/,2014-04-08 00:56:10,18,0,5,18,0,0,0,0,0,0
+608686072540615_625510674191488,www.iinclude.in,"Samsung updates ChatON with message recalling, 1GB file transfer, Hindi support",link,http://iinclude.in/2014/04/samsung-updates-chaton-with-message-recalling-1gb-file-transfer-hindi-support/,2014-04-04 12:14:09,17,0,4,17,0,0,0,0,0,0
+608686072540615_624206274321928,http://iinclude.in/downloads-include-os/,Timeline Photos,photo,https://www.facebook.com/iinclude.in/photos/a.609260755816480.1073741828.608686072540615/624206090988613/?type=3,2014-04-01 12:13:02,20,0,8,20,0,0,0,0,0,0
+608686072540615_623532151056007,"Downloads Visual Studio 2013 & 2012
+http://iinclude.in/visual-studio-downloads/",Timeline Photos,photo,https://www.facebook.com/iinclude.in/photos/a.609260755816480.1073741828.608686072540615/623531637722725/?type=3,2014-03-31 08:32:21,18,1,9,18,0,0,0,0,0,0
+608686072540615_299519836864060,www.iinclude.in,Intel 2014 Enthusiast Processors,link,http://iinclude.in/2014/03/intel-2014-enthusiast-processors/,2014-03-26 06:43:06,11,0,0,11,0,0,0,0,0,0
+608686072540615_298194750329902,www.iinclude.in,Facebook Beta app released for Windows Phone devices,link,http://iinclude.in/2014/03/facebook-beta-app-released-for-windows-phone-devices/,2014-03-22 16:42:51,10,0,0,10,0,0,0,0,0,0
+608686072540615_298194630329914,www.iinclude.in,"Gmail is now completely encrypted, says Google",link,http://iinclude.in/2014/03/gmail-is-now-completely-encrypted-says-google/,2014-03-22 16:42:02,8,0,0,8,0,0,0,0,0,0
+608686072540615_298194166996627,www.iinclude.in,"Gmail is now completely encrypted, says Google",link,http://iinclude.in/2014/03/gmail-is-now-completely-encrypted-says-google/,2014-03-22 16:39:02,9,0,0,9,0,0,0,0,0,0
+608686072540615_298194150329962,www.iinclude.in,Facebook Beta app released for Windows Phone devices,link,http://iinclude.in/2014/03/facebook-beta-app-released-for-windows-phone-devices/,2014-03-22 16:38:52,12,0,0,12,0,0,0,0,0,0
+608686072540615_298194106996633,www.iinclude.in,"Facebook introduces Hack, a new PHP-based programming language",link,http://iinclude.in/2014/03/facebook-introduces-hack-a-new-php-based-programming-language/,2014-03-22 16:38:34,6,0,0,6,0,0,0,0,0,0
+608686072540615_297109073771803,www.iinclude.in,Lalit,photo,https://www.facebook.com/photo.php?fbid=671338489594687&set=o.608686072540615&type=3,2014-03-19 08:23:45,15,0,2,15,0,0,0,0,0,0
+608686072540615_297078313774879,http://diwakar256.tk/,Rapidleech v2 rev. 43,link,http://diwakar256.tk/,2014-03-19 06:27:06,6,1,2,6,0,0,0,0,0,0
+608686072540615_297075923775118,www.iinclude.in,Rapidleech v2 rev. 43,link,http://diwakar256.tk/,2014-03-19 06:17:02,7,1,1,7,0,0,0,0,0,0
+608686072540615_617261238349765,"What is AMD's New Graphics API by
+www.iinclude.in",What is AMD's New Graphics API,video,https://www.facebook.com/iinclude.in/videos/617261238349765/,2014-03-17 14:49:30,10,0,3,10,0,0,0,0,0,0
+608686072540615_295832723899438,,India-born Rajeev Suri tipped to become global CEO of Nokia Corporation,link,http://iinclude.in/2014/03/india-born-rajeev-suri-tipped-to-become-global-ceo-of-nokia-corporation/,2014-03-15 08:34:58,10,0,1,10,0,0,0,0,0,0
+608686072540615_616254755117080,"HAHA...Biggest Joke!! DEAR GAMERS, PLEASE DON'T BE FOOLED!!
+
+I'm just writing this to help educate people about buying a graphics card.
+
+First of all, people are repeatedly fooled into buying cheap low end GPU's like this one, just because it has ""2 GB"" of VRAM. Let me tell you, for this weak GPU chip, even 512MB is more than enough.
+
+Large VRAM's above 1GB are only usefull if ur gaming at a screen resolution higher than 1368x768, and when using high AA (Anti-Aliasing) settings. The funny thing is that this GPU is so weak, that it will totally choke and suffocate if you try running any game modern game at even 4x AA :)
+
+If you don't believe me, just google search 'How much ram does your graphics card really need'. Open the first link by TomsHardware, and then see d test results for various games using 512MB, 1GB & 2GB of VRAM. Then you'll realize the truth :)
+
+Only buy 2GB cards if you have a screen resolution of 1920x1080 or more, and have a powerfull enough GPU that can support AA while maintaining atleast 40+ FPS.
+
+FOR BUDGET GAMERS,get 1GB DDR3 Radeon HD6670 OR GeForce 630 ATLEAST.
+
+How to understand Graphic Card Model Numbers?
+================================
+
+Both nVidia and ATi/AMD cards mention both the Generation and the target performance segments in their model number. See below,
+
+For nVidia
+------------
+First number is Series, last 2 numbers give performance segment.
+
+Eg, Geforce 610 = 6th series, 10 = Lowest performace card in this generation.
+Geforce 630 = 6th series, 30 = Medium performance
+Geforce 660 = 6th series, 60 = High performance, and similarly 690 = Extremely high performance.
+
+Also note that older generations high end cards will still DESTROY new generations low end cards. Eg, a Geforce 480 will kill a Geforce 610 :)
+
+For ATi/AMD Radeon
+------------------------
+First number is Series, last 3 numbers give performance segment.
+
+Eg- HD 7970, 7th series, 970 means Extremely high end
+HD 7750, 7th series,750 means high end
+HD 6670, 6th series, 670 means medium performance
+HD 6450, 6th series, 450 Low end card",Timeline Photos,photo,https://www.facebook.com/iinclude.in/photos/a.609260755816480.1073741828.608686072540615/616254375117118/?type=3,2014-03-15 08:22:32,21,1,14,21,0,0,0,0,0,0
+608686072540615_616146225127933,"Mac vs PC  by 
+www.iinclude.in",,video,https://www.facebook.com/iinclude.in/videos/616146225127933/,2014-03-15 01:57:42,10,0,0,10,0,0,0,0,0,0
+608686072540615_295700463912664,,iinclude.in,video,https://www.facebook.com/iinclude.in/videos/613607335381822/,2014-03-14 21:38:58,9,0,1,9,0,0,0,0,0,0
+608686072540615_294518904030820,www.iinclude.in,Nokia’s first Android phone available from today,link,http://iinclude.in/2014/03/nokias-first-android-phone-available-from-today/,2014-03-11 09:15:49,9,0,0,9,0,0,0,0,0,0
+608686072540615_294518620697515,,Microsoft plans popup alerts to warn Windows XP users of April 8 deadline,link,http://iinclude.in/2014/03/microsoft-plans-popup-alerts-to-warn-windows-xp-users-of-april-8-deadline/,2014-03-11 09:14:40,7,0,0,7,0,0,0,0,0,0
+608686072540615_613607335381822,"Norton Anti-Theft - Laptop Security - Smartphone Security by
+www.iinclude.in",Norton Anti-Theft - Laptop Security - Smartphone Security,video,https://www.facebook.com/iinclude.in/videos/613607335381822/,2014-03-10 07:59:41,10,0,2,10,0,0,0,0,0,0
+608686072540615_613004648775424,Ultrabook™. Inspired by Intel - Intel India,Ultrabook™. Inspired by Intel - Intel India,video,https://www.facebook.com/iinclude.in/videos/613004648775424/,2014-03-09 05:43:31,9,0,0,9,0,0,0,0,0,0
+608686072540615_613003062108916,"Iris™ Pro Graphics at Intel® Extreme Masters
+by www.iinclude.in",Iris™ Pro Graphics at Intel® Extreme Masters,video,https://www.facebook.com/iinclude.in/videos/613003062108916/,2014-03-09 05:36:10,10,0,0,10,0,0,0,0,0,0
+608686072540615_613002458775643,Intel® Turbo Boost Technology Improves Application Performance by www.iinclude.in,Intel® Turbo Boost Technology Improves Application Performance,video,https://www.facebook.com/iinclude.in/videos/613002458775643/,2014-03-09 05:33:01,10,0,0,10,0,0,0,0,0,0
+608686072540615_613001622109060,Intel® Graphics Technology Intensifies Gaming Experience  by www.iinclude.in,Intel® Graphics Technology Intensifies Gaming Experience,video,https://www.facebook.com/iinclude.in/videos/613001622109060/,2014-03-09 05:30:53,9,0,0,9,0,0,0,0,0,0
+608686072540615_610110559064833,www.iinclude.in   OS X Lion,www.iinclude.in   OS X Lion,photo,https://www.facebook.com/iinclude.in/photos/a.610109542398268.1073741830.608686072540615/610109762398246/?type=3,2014-03-03 08:20:54,11,0,0,11,0,0,0,0,0,0
+608686072540615_610107929065096,www.iinclude.in   OS X Lion,Timeline Photos,photo,https://www.facebook.com/iinclude.in/photos/a.609260755816480.1073741828.608686072540615/610107739065115/?type=3,2014-03-03 08:13:12,9,0,14,9,0,0,0,0,0,0
+608686072540615_609470822462140,http://iinclude.in/civil-engineering-test/,Timeline Photos,photo,https://www.facebook.com/iinclude.in/photos/a.609260755816480.1073741828.608686072540615/609470735795482/?type=3,2014-03-01 23:48:03,9,0,1,9,0,0,0,0,0,0
+608686072540615_609260759149813,http://iinclude.in/mechanical-engineering-test/,Timeline Photos,photo,https://www.facebook.com/iinclude.in/photos/a.609260755816480.1073741828.608686072540615/609260702483152/?type=3,2014-03-01 12:58:09,7,0,4,7,0,0,0,0,0,0
+608686072540615_609143649161524,Mac OS X Mountain Lion,Mac OS X Mountain Lion,video,https://www.facebook.com/iinclude.in/videos/609143649161524/,2014-03-01 08:26:12,10,0,2,10,0,0,0,0,0,0
+608686072540615_609128765829679,"Intel® Wireless Display with 4th Gen Intel® Core™ Processors
+
+
+www.iinclude.in",Intel® Wireless Display with 4th Gen Intel® Core™ Processors,video,https://www.facebook.com/iinclude.in/videos/609128765829679/,2014-03-01 07:03:31,7,0,1,7,0,0,0,0,0,0
+608686072540615_609120519163837,"AMD A-Series APU
+
+
+www.iinclude.in",AMD A-Series APU,video,https://www.facebook.com/iinclude.in/videos/609120519163837/,2014-03-01 06:51:24,9,0,1,9,0,0,0,0,0,0
+608686072540615_608712422537980,"Windows 8.1
+
+
+www.iinclude.in",Windows 8.1,video,https://www.facebook.com/iinclude.in/videos/608712422537980/,2014-02-28 09:15:12,10,0,5,10,0,0,0,0,0,0
+608686072540615_608704605872095,,'s cover photo,photo,https://www.facebook.com/iinclude.in/photos/a.608704602538762.1073741827.608686072540615/608704115872144/?type=3,2014-02-28 08:20:13,8,0,0,8,0,0,0,0,0,0
+608686072540615_608702639205625,www.iinclude.in,,status,,2014-02-28 08:13:12,8,0,0,8,0,0,0,0,0,0
